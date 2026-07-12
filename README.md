@@ -66,7 +66,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=priyanshuyadav-224&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-<img src="https://streak-stats.demolab.com?user=priyanshuyadav-224&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=priyanshuyadav-224&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" />
 
 <br/>
 
