@@ -37,8 +37,7 @@
 
 <div align="center">
 
-### Languages
-
+**Languages**
 <br/>
 
 <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
@@ -46,26 +45,23 @@
 <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/C%2B%2B-121212?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
 
-### Frontend
-
+**Frontend**
 <br/>
 
 <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript_DOM-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/DOM%20API-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-### Backend
-
+**Backend** *(learning)*
 <br/>
 
 <img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js&logoColor=6DA55F" />
 <img src="https://img.shields.io/badge/EJS-121212?style=for-the-badge&logo=ejs&logoColor=B4CA65" />
 
-### Game Development
-
+**Game Development**
 <br/>
 
-<img src="https://img.shields.io/badge/Unity-121212?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Unity-121212?style=for-the-badge&logo=unity&logoColor=white" />
 
 </div>
 
@@ -75,22 +71,13 @@
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=priyanshuyadav-224&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=1800"
-  width="48%"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshuyadav-224&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
 
-<img
-  src="https://github-readme-streak-stats-eight.vercel.app/?user=priyanshuyadav-224&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
-  width="48%"
-/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=priyanshuyadav-224&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" alt="GitHub Streak" />
 
 <br/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuyadav-224&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800"
-  width="48%"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuyadav-224&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" alt="Top Languages" />
 
 </div>
 
@@ -98,16 +85,8 @@
 
 <div align="center">
 
-<img
-  src="https://komarev.com/ghpvc/?username=priyanshuyadav-224&style=for-the-badge&color=161b22"
-  alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=priyanshuyadav-224&style=for-the-badge&color=161b22" alt="Profile Views" />
 
-<br/><br/>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
